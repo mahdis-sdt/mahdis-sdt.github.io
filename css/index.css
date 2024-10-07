@@ -35,6 +35,7 @@ body {
     margin-right: 30px;
 }
 .img1 {
+
    text-align: center;
 }
 .h3{
@@ -45,6 +46,109 @@ body {
 }
 .pf{
     display:block;
-    margin-top: 300px;
+    margin-top:200px;
     text-align: center;
+}
+h5{
+        padding-right: 200px;
+        font-size: 15px;
+        margin-top: 10%;
+}
+.p2{
+    display: flex;
+    font-weight: bold;
+    padding-right: 200px;
+    width: 80%;
+    font-size:20px;
+    margin-top:10px;
+    
+}
+.p2-{
+    text-align: justify;
+}
+
+.p3{
+    display: flex;
+    flex-wrap: nowrap;
+    text-align:right ;
+    margin-top: -6%;
+    text-align: justify;
+}
+h2{
+    width: 70%;
+  text-align: right;
+  margin-right: 200px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: justify;
+  margin-top: 20px;
+  margin-bottom: 20%;
+}
+.icon-fac{
+    margin-top: 266px;
+    margin-right: -453px;
+  }
+.icon-insta{
+    margin-top: 267px;
+    margin-right: -423px;
+}
+.icon-link{
+    margin-top: 267px;
+    margin-right: -391px;
+     
+}
+.icon-you{
+    margin-top: 268px;
+  margin-right: -358px;
+}
+
+.icon-pint{
+    margin-top: 267px;
+    margin-right: -326px;
+}
+.bg{
+    background-color: #f0eae8;
+    width: 100%;
+    height: 100%;
+}
+.p7{
+    display: inline-block;
+    margin-right: 102px;
+    margin-top: 60px; 
+}
+.p1{
+    margin-right: 92px;
+  margin-top: 10px;
+  font-size: 25px;
+  font-weight: bold;
+}
+.p-p{
+    margin-top: 10px;
+    margin-right: 90px;
+    width: 47%;
+}
+label{
+  display: block;
+  margin-right: 57%;
+  margin-top: -160px;
+}
+.email{
+    margin-right: 57%;
+    margin-top: 8px;
+    width: 22%;
+    height: 5%;
+    border: 1px solid;
+}
+.sleckt{
+    width: 9%;
+    height: 5%;
+    border: 1px black solid;
+    background-color: black;
+    color:white;
+}
+.img-{
+width: 50%;
+  height: 650px;
+  margin-right: 50%;
+  margin-top: 186px;
 }
